@@ -21,7 +21,7 @@ const About = () => {
         </svg>
       ),
       title: "Solutions",
-      desc: "To provide innovative, quality and sustainable ICT solutions & services in the country",
+      desc: "To provide innovative, quality and sustainable ICT solutions & services in the university",
     },
     {
       icon: <HiOutlineUserGroup className="h-6 w-6" />,
