@@ -8,9 +8,11 @@ import { HiOutlineMailOpen } from "react-icons/hi";
 
 const Footer = () => {
   return (
-    <footer id="Contact" className="bg-gray-100 py-10">
+
+    // className="max-w-7xl mx-auto py-16 px-4 sm:px-6 lg:px-8"
+    <footer id="Contact" className="bg-white py-16 px-0 max-w-7xl mx-auto  sm:px-6 lg:px-8">
       <div className="container mx-auto">
-        <div className="flex flex-wrap justify-center items-start mb-4">
+        <div className="flex flex-wrap justify-center items-start">
           <div className="w-full md:w-1/4 px-4 my-3 hover:shadow-xl rounded-md sm:mb-40">
             <h4 className="text-black text-lg">Address</h4>
             <ul className="list-reset text-black">
