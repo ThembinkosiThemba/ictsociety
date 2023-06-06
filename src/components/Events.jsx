@@ -43,10 +43,10 @@ const Events = () => {
                 </h1>
                 {/* ::Excerpt */}
                 <p className="line-clamp-8 py-5 overflow-hidden leading-relaxed text-sm text-gray-500 text-left font-medium cursor-pointer">
-                  Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsa,
-                  illum cum autem incidunt magni voluptatum alias reiciendis
-                  possimus doloremque, enim consequuntur quia. Voluptas
-                  exercitationem soluta debitis labore aliquam molestiae illum?
+                  The main objective of this hackathon is to
+                  encourage participants to use machine learning
+                  techniques to develop innovative solutions
+                  that promote financial inclusion.
                 </p>
                 {/* ::Read more */}
                 <a
