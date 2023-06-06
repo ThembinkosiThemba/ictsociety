@@ -3,9 +3,6 @@ import Demo from "../images/demo3.jpg";
 const Hero = () => {
 
   const image1 = "https://images.unsplash.com/photo-1685471215233-89420cad2508?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwcm9maWxlLXBhZ2V8MXx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=400&q=60"
-
-  const image2 = "https://fancytailwind.com/static/f9e0992b36915d2ecac18949d7ba0fdf/24862/walking1.webp"
-
   const image3 = "https://images.pexels.com/photos/574071/pexels-photo-574071.jpeg?auto=compress&cs=tinysrgb&w=400"
 
   return (
