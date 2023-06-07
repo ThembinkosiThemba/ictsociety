@@ -4,12 +4,13 @@ const Hero = () => {
 
   const image1 = "https://images.unsplash.com/photo-1685471215233-89420cad2508?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwcm9maWxlLXBhZ2V8MXx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=400&q=60"
   const image3 = "https://images.pexels.com/photos/574071/pexels-photo-574071.jpeg?auto=compress&cs=tinysrgb&w=400"
+  const image2 = "https://images.pexels.com/photos/1229861/pexels-photo-1229861.jpeg?auto=compress&cs=tinysrgb&w=1600"
 
   return (
     <div className="relative w-full h-full flex justify-end bg-gradient-to-t from-black via-transparent to-black overflow-hidden">
       
       {/* :HERO IMAGE */}
-      <img src={image3} alt="" className="absolute w-full h-full object-cover object-left sm:object-center" />
+      <img src={image2} alt="" className="absolute w-full h-full object-cover object-left sm:object-center" />
 
       {/* :HERO MAIN CONTAINER */}
       <div className="relative py-28 xl:py-40 w-full md:w-2/3 lg:w-1/2 h-full flex flex-col justify-center">
