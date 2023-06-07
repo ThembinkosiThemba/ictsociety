@@ -49,12 +49,12 @@ const Events = () => {
                   that promote financial inclusion.
                 </p>
                 {/* ::Read more */}
-                <a
-                  href="#link"
-                  className="self-start p-2 bg-gradient-to-br from-green-500 to-blue-500 bg-clip-text text-transparent font-medium no-underline transform hover:scale-105"
-                >
-                  Read more
-                </a>
+//                 <a
+//                   href="#link"
+//                   className="self-start p-2 bg-gradient-to-br from-green-500 to-blue-500 bg-clip-text text-transparent font-medium no-underline transform hover:scale-105"
+//                 >
+//                   Read more
+//                 </a>
               </div>
 
               {/* ::CARD FOOTER */}
@@ -122,18 +122,18 @@ const Events = () => {
                 </h1>
                 {/* ::Excerpt */}
                 <p className="line-clamp-8 py-5 overflow-hidden leading-relaxed text-sm text-gray-500 text-left font-medium cursor-pointer">
-                  Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsa,
-                  illum cum autem incidunt magni voluptatum alias reiciendis
-                  possimus doloremque, enim consequuntur quia. Voluptas
-                  exercitationem soluta debitis labore aliquam molestiae illum?
+                  This seminar will help build the confidence needed when 
+                  delivering presentations, help make those social connections
+                  and also help in other aspects such as proper team management, 
+                  developing vocavulary and fluency in the language.
                 </p>
                 {/* ::Read more */}
-                <a
-                  href="#link"
-                  className="self-start p-2 bg-gradient-to-br from-green-500 to-blue-500 bg-clip-text text-transparent font-medium no-underline transform hover:scale-105"
-                >
-                  Read more
-                </a>
+//                 <a
+//                   href="#link"
+//                   className="self-start p-2 bg-gradient-to-br from-green-500 to-blue-500 bg-clip-text text-transparent font-medium no-underline transform hover:scale-105"
+//                 >
+//                   Read more
+//                 </a>
               </div>
 
               {/* ::CARD FOOTER */}
