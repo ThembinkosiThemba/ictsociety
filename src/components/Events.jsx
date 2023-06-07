@@ -49,12 +49,12 @@ const Events = () => {
                   that promote financial inclusion.
                 </p>
                 {/* ::Read more */}
-//                 <a
-//                   href="#link"
-//                   className="self-start p-2 bg-gradient-to-br from-green-500 to-blue-500 bg-clip-text text-transparent font-medium no-underline transform hover:scale-105"
-//                 >
-//                   Read more
-//                 </a>
+                <a
+                  href="#link"
+                  className="self-start p-2 bg-gradient-to-br from-green-500 to-blue-500 bg-clip-text text-transparent font-medium no-underline transform hover:scale-105"
+                >
+                  Read more
+                </a>
               </div>
 
               {/* ::CARD FOOTER */}
