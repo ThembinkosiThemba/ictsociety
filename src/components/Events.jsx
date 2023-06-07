@@ -48,13 +48,6 @@ const Events = () => {
                   techniques to develop innovative solutions
                   that promote financial inclusion.
                 </p>
-                {/* ::Read more */}
-                <a
-                  href="#link"
-                  className="self-start p-2 bg-gradient-to-br from-green-500 to-blue-500 bg-clip-text text-transparent font-medium no-underline transform hover:scale-105"
-                >
-                  Read more
-                </a>
               </div>
 
               {/* ::CARD FOOTER */}
@@ -127,13 +120,6 @@ const Events = () => {
                   and also help in other aspects such as proper team management, 
                   developing vocavulary and fluency in the language.
                 </p>
-                {/* ::Read more */}
-//                 <a
-//                   href="#link"
-//                   className="self-start p-2 bg-gradient-to-br from-green-500 to-blue-500 bg-clip-text text-transparent font-medium no-underline transform hover:scale-105"
-//                 >
-//                   Read more
-//                 </a>
               </div>
 
               {/* ::CARD FOOTER */}
