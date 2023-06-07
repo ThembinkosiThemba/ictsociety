@@ -55,19 +55,13 @@ const Navbar = () => {
               <AiOutlineClose onClick={() => setToggleMenu(false)} />
             </li>
             <li className="text-xl w-full my-2">
-              <a href="/About">About</a>
+              <a href="#Events">Events</a>
             </li>
             <li className="text-xl w-full my-2">
-              <a href="/Events">Events</a>
-            </li>
-            <li className="text-xl w-full my-2">
-              <a href="/tutorials">Tutorials</a>
-            </li>
-            <li className="text-xl w-full my-2">
-              <a href="/Membership">Membership</a>
+              <a href="#Membership">Membership</a>
             </li>
             <li className="bg-gray-800 py-2 px-7 text-xl my-2 rounded-full cursor-pointer hover:bg-[#2546bd]">
-              <a href="/Register">Register</a>
+              <a href="#Register">Register</a>
             </li>
           </ul>
         )}
