@@ -22,7 +22,7 @@ const Hero = () => {
         </div>
 
         {/* ::Hero button */}
-        <a className="relative m-5 w-full md:w-2/3 lg:w-2/5 inline-flex items-center text-2xl font-firacode text-white overflow-hidden transition-all duration-300 transform hover:translate-x-4">
+        <a className="bg-gray-800 relative m-5 w-full md:w-2/3 lg:w-2/5 inline-flex items-center text-2xl font-firacode text-white overflow-hidden transition-all duration-300 transform hover:translate-x-4">
           <span className="relative -top-0.5 mr-2">Register</span>
           <img src="https://fancytailwind.com/static/53e4540ef179fe51d5a02619660a1a92/arrow1.png" alt="" className="absolute left-32 w-20" />
         </a>
