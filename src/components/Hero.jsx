@@ -22,10 +22,10 @@ const Hero = () => {
         </div>
 
         {/* ::Hero button */}
-        <a className="bg-gray-800 relative m-5 w-full md:w-2/3 lg:w-2/5 inline-flex items-center text-2xl font-firacode text-white overflow-hidden transition-all duration-300 transform hover:translate-x-4">
-          <span className="relative -top-0.5 mr-2">Register</span>
-          <img src="https://fancytailwind.com/static/53e4540ef179fe51d5a02619660a1a92/arrow1.png" alt="" className="absolute left-32 w-20" />
-        </a>
+//         <a className="bg-gray-800 relative m-5 w-full md:w-2/3 lg:w-2/5 inline-flex items-center text-2xl font-firacode text-white overflow-hidden transition-all duration-300 transform hover:translate-x-4">
+//           <span className="relative -top-0.5 mr-2">Register</span>
+//           <img src="https://fancytailwind.com/static/53e4540ef179fe51d5a02619660a1a92/arrow1.png" alt="" className="absolute left-32 w-20" />
+//         </a>
 
         {/* ::Social media */}
         <div className="absolute top-4 sm:top-auto bottom-auto sm:bottom-20 md:bottom-0 -right-16 md:right-0 h-36 inline-flex md:flex-col justify-around items-center text-yellow-400 transform -translate-x-1/2">
